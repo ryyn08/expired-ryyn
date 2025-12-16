@@ -1,7 +1,4 @@
 {
-  "expired_year": 2025,
-  "expired_month": 12,
-  "expired_day": 17,
-  "expired_hour": 1,
-  "expired_minute": 1
+  "expired_date": [2025, 12, 16, 23, 5] 
+  // Tahun 2025, Bulan 12 (Desember), Tanggal 16, Jam 23:00 (11 malam), Menit 5
 }
